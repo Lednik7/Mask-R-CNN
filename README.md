@@ -1,9 +1,12 @@
 # Masks r-cnn tutorial #
+P.S. подразумевается, что вы используете среду Anaconda
 * Подготовка:
 
 pip install tensorflow==1.14.0
 
 pip install mrcnn или git clone https://github.com/matterport/Mask_RCNN
+
+pip install cv2
 
 * Начало работы:
 
