@@ -38,3 +38,4 @@ https://www.cs.bgu.ac.il/~drobya/annotation.html - VIA.
 https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
 https://github.com/matterport/Mask_RCNN
 https://www.youtube.com/watch?v=-lIVq52AAPc&list=PL7MfTiaPHGdFIqw16GLMsLKrrly8FtN91
+https://www.youtube.com/watch?v=dM_LPsgMe84&list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM&index=13
