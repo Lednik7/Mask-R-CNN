@@ -1,4 +1,4 @@
-# Masks-bounding-box-r-cnn-model #
+# Masks r-cnn tutorial #
 * Подготовка:
 
 pip install tensorflow==1.14.0
