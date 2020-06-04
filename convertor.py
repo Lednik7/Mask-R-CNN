@@ -13,7 +13,6 @@ try:
     print("Папка создана")
 except:
     print("Папка уже создана")
-    pass
              
 for filename in os.listdir(path):
     if filename != name:
