@@ -18,7 +18,7 @@ try:
         hash = m.dhash(Image.open(path2))
         if hash in original:
             copy.append(filename)
-            if ask == "yes" or 1:
+            if ask == "yes" or "1":
                 os.remove(path2)
         else:
             original.append(hash)
