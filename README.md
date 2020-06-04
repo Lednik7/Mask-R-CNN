@@ -1,4 +1,4 @@
-# Masks r-cnn tutorial #
+# Mask r-cnn tutorial #
 P.S. подразумевается, что вы используете среду Anaconda
 * Подготовка:
 
