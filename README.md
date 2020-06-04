@@ -26,4 +26,5 @@ pip install cv2
 
 https://www.cs.bgu.ac.il/~drobya/annotation.html - VIA
 
-На главной страницу можно увидеть "Getting Started" - прочитайте его.
+На главной странице можно увидеть "Getting Started" - прочитайте его.
+
