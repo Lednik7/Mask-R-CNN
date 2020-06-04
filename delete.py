@@ -3,7 +3,7 @@ import imagehash as m
 import os
 
 # Sample/jpg/
-dir = input()
+dir = input("Path: ")
 
 ask = (input("Delete copies?: ")).replace(" ", "").lower() #Yes or No || 1 or 0
 
