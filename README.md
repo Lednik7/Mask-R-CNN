@@ -14,4 +14,4 @@ pip install mrcnn или git clone https://github.com/matterport/Mask_RCNN
 2) Через Chrome сохраняем страницу с выдачей(полностью)
 3) Находим папку с материалами страницы
 4) Удаляем все лишнии элементы(должны остаться: i, i(1), i(2)...)
-5) запускаем скрипт из converor.py
+5) запускаем скрипт из convertor.py
