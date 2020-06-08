@@ -61,7 +61,8 @@ P.S. подразумевается, что вы используете сред
 ### Prepoccesing: ###
 
 0) В generate_tfrecord.py найдите функцию _class_text_to_int_ и проставьте метки к классам, как показано на рисунке:
-![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/func.png)
+
+![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/func_img_.png)
 
 1) Для начала давайте скачаем [репозиторий](https://github.com/tensorflow/models) в каталог с нашим проектом согласно структуре проекта.
 
@@ -88,8 +89,9 @@ set PYTHONPATH=F:\Programming\geeksforgeeks_project\models-master;F:\Programming
   python generate_tfrecord.py --csv_input =images/train_labels.csv --image_dir=images/train --output_path=train.record
   python generate_tfrecord.py --csv_input =images/test_labels.csv --image_dir=images/test --output_path=test.record
 ```
-7) В каталоге oblect_detection создадим папку _traning_. Там создадим файл _labelmap.pbtxt_.
-![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/labelmap.png)
+7) В каталоге oblect_detection создадим папку _traning_. Там создадим файл _labelmap.pbtxt_. Дл каждого класса сделаем такой item:
+
+![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/labelmap_.png)
 
 **Больше информации:**
 
