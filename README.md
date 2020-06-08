@@ -5,11 +5,7 @@ P.S. подразумевается, что вы используете сред
 
 ### Подготовка: ###
 
-pip install tensorflow==1.14.0 # mrcnn не совместим с последними версиями tensorflow
-
-pip install mrcnn или git clone https://github.com/matterport/Mask_RCNN
-
-pip install cv2
+просмотрите requrements.txt
 
 ### Начало работы: ###
 
