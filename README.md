@@ -56,7 +56,7 @@ P.S. подразумевается, что вы используете сред
 
 Ипользуйте этот инструмент. После каждого аннотирования изображения и сохраните его, как показано на картинке:
 
-![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/labelImg_6.png)
+![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/labelImg.png)
 
 ### Prepoccesing: ###
 
