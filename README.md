@@ -1,7 +1,9 @@
 # Mask r-cnn tutorial #
-P.S. подразумевается, что вы используете среду *Anaconda* для реализации от matterport
+**P.S. подразумевается, что вы используете среду *Anaconda* для реализации от matterport**
 
-Этот репозиторий ещё не доделан
+**Этот репозиторий ещё не доделан**
+
+### [Туториал по tensorflow object detection api](https://github.com/tensorflow/models) ###
 
 ### Подготовка: ###
 
@@ -60,7 +62,7 @@ P.S. подразумевается, что вы используете сред
 
 ### Prepoccesing: ###
 
-0) В generate_tfrecord.py найдите функцию _class_text_to_int_ и проставьте метки к классам, как показано на рисунке:
+0) В generate_tfrecord.py найдите функцию _class_text_to_int_ и проставьте метки к классам, как показано на рисунке(метками могут быть только натуральные числа):
 
 ![Image alt](https://github.com/Lednik7/Mask-r-cnn/raw/master/images/func_img_.png)
 
