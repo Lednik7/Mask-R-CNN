@@ -39,7 +39,7 @@ https://www.cs.bgu.ac.il/~drobya/annotation.html - VIA.
 
 Ипользуйте этот инструмент. После каждого аннотирования изображения и сохраните его, как показано на картинке:
 
-!(https://github.com/Lednik7/Mask-r-cnn/blob/master/images/Screenshot_6.png)
+!(https://github.com/Lednik7/Mask-r-cnn/raw/master/images/Screenshot_6.png)
 
 ### Prepoccesing: ###
 
