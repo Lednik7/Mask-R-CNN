@@ -1,11 +1,31 @@
 # Mask r-cnn tutorial #
-P.S. подразумевается, что вы используете среду *Anaconda*
+P.S. подразумевается, что вы используете среду *Anaconda* для реализации от matterport
 
 Этот репозиторий ещё не доделан
 
 ### Подготовка: ###
 
-просмотрите requrements.txt
+Для начала просмотрите requirements.txt
+
+Давайте посмотрим на структуру проекта:
+
+```
+---Projetc:
+  ---models:
+    ---....
+    ---research:
+      ---....
+      ---oblect_detection:
+        ---train.py
+        ---xml_to_csv.py
+        ---generate_tfrecord.py
+        ---images
+        ---....
+  ---labelImg.exe
+  ---delete.py
+  ---converte.py
+```
+  
 
 ### Начало работы: ###
 
